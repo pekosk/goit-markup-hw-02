@@ -1,0 +1,24 @@
+/* Цвет фона шапки #FFFFFF */
+/* Цвет фона подвала #2F303A */
+/* Основной цвет фона #E5E5E5 */
+/* Вторичный цвет фона #F5F4FA */
+/* Основной цвет #212121 */
+/* Вторичный цвет #757575 */
+/* Цвет акцента #2196F3 */
+/* Цвет ссылок адресса rgba(255, 255, 255, 0.6); */
+/* Белый цвет #FFFFFF */
+
+:root {
+  --header-bgc: #ffffff;
+  --footer-bgc: #2f303a;
+  --primary-bgc: #e5e5e5;
+  --secondary-bgc: #f5f4fa;
+  --primary-text-colour: #212121;
+  --secondary-text-colour: #757575;
+  --accent-colour: #2196f3;
+  --adress-link-colour: rgba(255, 255, 255, 0.6);
+  --white-colour: #ffffff;
+}
+
+body {
+}

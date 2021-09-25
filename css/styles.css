@@ -16,8 +16,8 @@
   --primary-text-colour: #212121;
   --secondary-text-colour: #757575;
   --accent-colour: #2196f3;
-  --adress-link-colour: rgba(255, 255, 255, 0.6);
-  --white-colour: #ffffff;
+  --secondary-white-colour: rgba(255, 255, 255, 0.6);
+  --primary-white-colour: #ffffff;
 }
 
 body {

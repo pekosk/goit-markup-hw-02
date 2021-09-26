@@ -29,6 +29,12 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+.link {
+  color: var(--primary-text-color);
+
+  text-decoration: none;
+}
+
 .header {
   background-color: var(--primary-white-color);
 
@@ -44,6 +50,8 @@ body {
 
 .logo {
   color: var(--primary-black-color);
+
+  text-decoration: none;
 
   font-family: Raleway;
   font-weight: 500;
@@ -193,6 +201,7 @@ body {
 }
 
 .team-list .text {
+  color: var(--secondary-text-color);
   font-size: 16px;
   line-height: 1.19;
   letter-spacing: 0.03em;

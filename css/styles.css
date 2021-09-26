@@ -58,6 +58,14 @@ body {
   color: var(--accent-colour);
 }
 
+.site-nav {
+  list-style-type: none;
+}
+
+.auth-nav {
+  list-style-type: none;
+}
+
 .site-nav .link.current {
   color: var(--accent-colour);
 }
@@ -82,6 +90,10 @@ body {
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
+}
+
+.adress-list {
+  list-style-type: none;
 }
 
 .adress-list .link {
@@ -127,5 +139,55 @@ body {
 .section-pros .tittle {
   font-weight: 700;
   font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
+}
+
+.section-pros .text {
+  color: var(--secondary-text-color);
+
+  font-size: 14px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+}
+
+.section-job .tittle {
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.section-team {
+  background-color: var(--secondary-bgc);
+}
+
+.section-team > .tittle {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.team-list .tittle {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+}
+
+.team-list {
+  list-style-type: none;
+}
+
+.team-list .text {
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 }

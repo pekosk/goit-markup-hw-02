@@ -126,6 +126,8 @@ body {
   background-color: var(--accent-colour);
   color: var(--primary-white-color);
 
+  cursor: pointer;
+
   font-family: inherit;
   font-weight: 700;
   font-size: 16px;
@@ -199,6 +201,8 @@ body {
 .button-list .button {
   color: var(--primary-text-color);
   background-color: var(--secondary-bgc);
+
+  cursor: pointer;
 
   font-family: Roboto;
   font-weight: 500;

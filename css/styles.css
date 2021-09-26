@@ -116,6 +116,7 @@ body {
 .adress .text {
   color: var(--primary-white-color);
 
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
@@ -129,6 +130,7 @@ body {
 .adress-list .link {
   color: var(--adress-color);
 
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7;

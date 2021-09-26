@@ -191,3 +191,48 @@ body {
   line-height: 1.19;
   letter-spacing: 0.03em;
 }
+
+.button-list {
+  list-style-type: none;
+}
+
+.button-list .button {
+  color: var(--primary-text-color);
+  background-color: var(--secondary-bgc);
+
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.button:hover,
+.button:focus {
+  background-color: var(--accent-colour);
+  color: var(--primary-white-color);
+}
+
+.work-list {
+  list-style-type: none;
+}
+
+.work-list .tittle {
+  color: var(--primary-text-color);
+
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+}
+
+.work-list .text {
+  color: var(--secondary-text-color);
+
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
+}

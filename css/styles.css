@@ -38,6 +38,10 @@ body {
   letter-spacing: 0.02em;
 }
 
+.half-logo {
+  color: var(--accent-colour);
+}
+
 .logo {
   color: var(--primary-black-color);
 
